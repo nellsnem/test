@@ -1,0 +1,7 @@
+C:\Users\Cніжана\OneDrive\Рабочий стол\C#\new\new\bin\Debug\@new.exe.config
+C:\Users\Cніжана\OneDrive\Рабочий стол\C#\new\new\bin\Debug\@new.exe
+C:\Users\Cніжана\OneDrive\Рабочий стол\C#\new\new\bin\Debug\@new.pdb
+C:\Users\Cніжана\OneDrive\Рабочий стол\C#\new\new\obj\Debug\new.csproj.AssemblyReference.cache
+C:\Users\Cніжана\OneDrive\Рабочий стол\C#\new\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+C:\Users\Cніжана\OneDrive\Рабочий стол\C#\new\new\obj\Debug\@new.exe
+C:\Users\Cніжана\OneDrive\Рабочий стол\C#\new\new\obj\Debug\@new.pdb
